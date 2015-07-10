@@ -5,9 +5,9 @@
 * [lnfs](https://github.com/kevva/lnfs) - Force create symlinks like `ln -fs`.
 * [posix-cat](https://github.com/shama/posix-cat) - Concatenate and print files like `cat`.
 * [concurrently](https://github.com/kimmobrunfeldt/concurrently) - Run multiple commands concurrently like `commandA & commandB`
+* [glob-cli](https://github.com/latentflip/node-glob-cli) - Match files using the patterns like `find . -name '*.foo`
 
 ## TODOS
 
 * `grep`
-* `find`
 * `cp -r`
