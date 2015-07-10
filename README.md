@@ -2,6 +2,10 @@
 
 *Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing. You might also like [awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs).*
 
+## Utilities
+
+* [shelljs](https://github.com/arturadib/shelljs) - Unix shell commands for Node.js.
+
 ## Packages
 
 * [rimraf](https://github.com/isaacs/rimraf) - Recursively delete files like `rm -rf`.
