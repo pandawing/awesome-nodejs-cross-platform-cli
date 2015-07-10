@@ -11,3 +11,4 @@
 
 * `grep`
 * `cp -r`
+* `xargs`
