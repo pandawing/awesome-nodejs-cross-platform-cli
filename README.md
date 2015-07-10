@@ -4,6 +4,7 @@
 * [mkdirp](https://github.com/substack/node-mkdirp) - Recursively create directories like `mkdir -p`.
 * [lnfs](https://github.com/kevva/lnfs) - Force create symlinks like `ln -fs`.
 * [posix-cat](https://github.com/shama/posix-cat) - Concatenate and print files like `cat`.
+* [concurrently](https://github.com/kimmobrunfeldt/concurrently) - Run multiple commands concurrently like `commandA & commandB`
 
 ## TODOS
 
