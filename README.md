@@ -16,7 +16,7 @@
 * [glob-cli](https://github.com/latentflip/node-glob-cli) - Match files using the patterns like `find . -name '*.foo`.
 * [trash](https://github.com/sindresorhus/trash) - Move files and directories to the trash like `rm`.
 * [cpy](https://github.com/sindresorhus/cpy) - Copy files like `cp`.
-* [cpx](https://github.com/mysticatea/cpx) - Copy file globs (and watch) like `cp`.
+* [cpx](https://github.com/mysticatea/cpx) - Copy file globs (and watch) like `cp -r`.
 
 ## Missing
 
