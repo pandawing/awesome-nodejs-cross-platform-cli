@@ -15,11 +15,11 @@
 * [concurrently](https://github.com/kimmobrunfeldt/concurrently) - Run multiple commands concurrently like `commandA & commandB`.
 * [glob-cli](https://github.com/latentflip/node-glob-cli) - Match files using the patterns like `find . -name '*.foo`.
 * [trash](https://github.com/sindresorhus/trash) - Move files and directories to the trash like `rm`.
+* [cpy](https://github.com/sindresorhus/cpy) - Copy files like `cp`.
 
 ## Missing
 
 * `grep`
-* `cp -r`
 * `xargs`
 * `zip`
 * `unzip`
