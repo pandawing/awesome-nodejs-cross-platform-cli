@@ -21,3 +21,7 @@
 * `grep`
 * `cp -r`
 * `xargs`
+* `zip`
+* `unzip`
+* `tar xzvf`
+* `tar czvf`
