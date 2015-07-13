@@ -17,6 +17,7 @@
 * [trash](https://github.com/sindresorhus/trash) - Move files and directories to the trash like `rm`.
 * [cpy](https://github.com/sindresorhus/cpy) - Copy files like `cp`.
 * [cpx](https://github.com/mysticatea/cpx) - Copy file globs (and watch) like `cp -r`.
+* [touch](https://github.com/isaacs/node-touch) - Touch file like `touch`. Command: `node ./node_modules/touch/bin/touch.js YOU-WANT-TO-TOUCH`.
 
 ## Missing
 
