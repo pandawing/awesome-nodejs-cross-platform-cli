@@ -19,6 +19,7 @@
 * [cpx](https://github.com/mysticatea/cpx) - Copy file globs (and watch) like `cp -r`.
 * [touch](https://github.com/isaacs/node-touch) - Touch file like `touch`. Command: `node ./node_modules/touch/bin/touch.js YOU-WANT-TO-TOUCH`.
 * [globstar](https://github.com/schnittstabil/globstar) - Run programs with glob/globstar support like `**`. Command: `globstar -- echo "**/globstar.js"`
+* [nodetree](https://github.com/psyrendust/nodetree) - List contents of directories like `tree`.
 
 ## Missing
 
@@ -29,5 +30,4 @@
 * `tar xzvf`
 * `tar czvf`
 * `find`
-* `tree`
 * `ls -al`
