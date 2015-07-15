@@ -27,3 +27,6 @@
 * `unzip`
 * `tar xzvf`
 * `tar czvf`
+* `find`
+* `tree`
+* `ls -al`
