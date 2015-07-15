@@ -17,7 +17,7 @@
 * [trash](https://github.com/sindresorhus/trash) - Move files and directories to the trash like `rm`.
 * [cpy](https://github.com/sindresorhus/cpy) - Copy files like `cp`.
 * [cpx](https://github.com/mysticatea/cpx) - Copy file globs (and watch) like `cp -r`.
-* [touch](https://github.com/isaacs/node-touch) - Touch file like `touch`. Command: `node ./node_modules/touch/bin/touch.js YOU-WANT-TO-TOUCH`.
+* [touch](https://github.com/isaacs/node-touch) - Touch file like `touch`.
 * [globstar](https://github.com/schnittstabil/globstar) - Run programs with glob/globstar support like `**`. e.g. `globstar -- echo "**/globstar.js"`
 * [nodetree](https://github.com/psyrendust/nodetree) - List contents of directories like `tree`.
 
