@@ -22,7 +22,7 @@
 
 ## Missing
 
-* Set Environment Variables On The Fly
+* Set Environment Variables On The Fly. e.g. `FOO=bar command`.
 * `grep`
 * `xargs`
 * `zip`
