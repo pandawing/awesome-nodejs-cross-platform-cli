@@ -22,6 +22,7 @@
 
 ## Missing
 
+* Set Environment Variables On The Fly
 * `grep`
 * `xargs`
 * `zip`
