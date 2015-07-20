@@ -19,6 +19,7 @@
 * [touch](https://github.com/isaacs/node-touch) - Touch file like `touch`.
 * [globstar](https://github.com/schnittstabil/globstar) - Run programs with glob/globstar support like `**`. e.g. `globstar -- echo "**/globstar.js"`.
 * [nodetree](https://github.com/psyrendust/nodetree) - List contents of directories like `tree`.
+* [fkill-cli](https://github.com/sindresorhus/fkill-cli) - Fabulously kill processes like `kill`.
 
 ## Missing
 
