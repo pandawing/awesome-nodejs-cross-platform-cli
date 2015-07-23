@@ -35,3 +35,4 @@
 * `tar czvf`
 * `find`
 * `ls -al`
+* `unlink`
