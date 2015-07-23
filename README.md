@@ -21,6 +21,7 @@
 * [nodetree](https://github.com/psyrendust/nodetree) - List contents of directories like `tree`.
 * [fkill-cli](https://github.com/sindresorhus/fkill-cli) - Fabulously kill processes like `kill`.
 * [opn-cli](https://github.com/sindresorhus/opn-cli) - Opens stuff like websites, files, executables like `open`.
+* [mve](https://github.com/studio-b12/mve) - Move a file or folder like `mv`.
 
 
 ## Missing
