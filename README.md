@@ -22,6 +22,7 @@
 * [fkill-cli](https://github.com/sindresorhus/fkill-cli) - Fabulously kill processes like `kill`.
 * [opn-cli](https://github.com/sindresorhus/opn-cli) - Opens stuff like websites, files, executables like `open`.
 * [mve](https://github.com/studio-b12/mve) - Move a file or folder like `mv`.
+* [extract-zip](https://github.com/maxogden/extract-zip) - Extracts a zip into a directory like `unzip`.
 
 
 ## Missing
@@ -30,7 +31,6 @@
 * `grep`
 * `xargs`
 * `zip`
-* `unzip`
 * `tar xzvf`
 * `tar czvf`
 * `find`
