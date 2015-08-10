@@ -24,7 +24,7 @@
 * [mve](https://github.com/studio-b12/mve) - Move a file or folder like `mv`.
 * [extract-zip](https://github.com/maxogden/extract-zip) - Extracts a zip into a directory like `unzip`.
 * [ncp](https://github.com/AvianFlu/ncp) - Asynchronous recursive file & directory copying like `cp -r`.
-
+* [npm-run-all](https://github.com/mysticatea/npm-run-all) - Run multiple npm-scripts sequentially or in parallel like `commandA & commandB` and/or `commandA && commandB`.
 
 ## Missing
 
