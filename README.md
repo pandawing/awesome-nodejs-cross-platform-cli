@@ -23,6 +23,7 @@
 * [opn-cli](https://github.com/sindresorhus/opn-cli) - Opens stuff like websites, files, executables like `open`.
 * [mve](https://github.com/studio-b12/mve) - Move a file or folder like `mv`.
 * [extract-zip](https://github.com/maxogden/extract-zip) - Extracts a zip into a directory like `unzip`.
+* [ncp](https://github.com/AvianFlu/ncp) - Asynchronous recursive file & directory copying like `cp -r`.
 
 
 ## Missing
