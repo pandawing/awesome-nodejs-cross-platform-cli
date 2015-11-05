@@ -25,6 +25,8 @@
 * [extract-zip](https://github.com/maxogden/extract-zip) - Extracts a zip into a directory like `unzip`.
 * [ncp](https://github.com/AvianFlu/ncp) - Asynchronous recursive file & directory copying like `cp -r`.
 * [npm-run-all](https://github.com/mysticatea/npm-run-all) - Run multiple npm-scripts sequentially or in parallel like `commandA & commandB` and/or `commandA && commandB`.
+* [which](https://github.com/npm/node-which) - Find the first instance of an executable in the PATH like `which`.
+
 
 ## Missing
 
