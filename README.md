@@ -26,11 +26,12 @@
 * [ncp](https://github.com/AvianFlu/ncp) - Asynchronous recursive file & directory copying like `cp -r`.
 * [npm-run-all](https://github.com/mysticatea/npm-run-all) - Run multiple npm-scripts sequentially or in parallel like `commandA & commandB` and/or `commandA && commandB`.
 * [which](https://github.com/npm/node-which) - Find the first instance of an executable in the PATH like `which`.
+* [cross-env](https://github.com/kentcdodds/cross-env) - provide a script which sets an environment using unix style. e.g. `cross-env NODE_ENV=production webpack --config build/webpack.config.js`.
+* [argv-set-env](https://github.com/kentcdodds/argv-set-env) - Set environment variables. e.g. `webpack --set-env-NODE_ENV=production`.
 
 
 ## Missing
 
-* Set Environment Variables On The Fly. e.g. `FOO=bar command`.
 * `grep`
 * `xargs`
 * `zip`
