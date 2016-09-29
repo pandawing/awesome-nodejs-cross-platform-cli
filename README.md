@@ -28,6 +28,7 @@
 * [which](https://github.com/npm/node-which) - Find the first instance of an executable in the PATH like `which`.
 * [cross-env](https://github.com/kentcdodds/cross-env) - Provide a script which sets an environment using unix style. e.g. `cross-env NODE_ENV=production webpack --config build/webpack.config.js`.
 * [argv-set-env](https://github.com/kentcdodds/argv-set-env) - Set environment variables. e.g. `webpack --set-env-NODE_ENV=production`.
+* [cross-conv-env](https://github.com/akabekobeko/npm-cross-conf-env) - Set config to package.json for npm-scripts.
 
 
 ## Missing
